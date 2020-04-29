@@ -13,4 +13,4 @@ It's easy to start contributing to E$$ENTIAL MEDICINE$. All you have to do is cl
 We’re here to help every step of the way and have prepared detailed explanations to guide you through the process and assist you with finding the information and filling in the form. You can access the guide here [insert link].
 
 ## What is this?
-If you are new to this project you can find out more information on the Breaking Good website [insert link] or on this repositories [wiki](https://github.com/TheBreakingGoodProject/Essential-Medicines/wiki)
+If you are new to this project you can find out more information on the Breaking Good website [insert link] or on this repositories [wiki](https://github.com/TheBreakingGoodProject/Essential-Medicines/wiki).
