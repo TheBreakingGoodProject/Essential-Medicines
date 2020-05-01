@@ -10,7 +10,7 @@ For the first round of the project, we’re focusing on medicines in the USA (do
 
 It's easy to start contributing to E$$ENTIAL MEDICINE$. All you have to do is click here [insert link] and follow the instructions in the form (watch out for some accompanying videos coming soon). 
 
-We’re here to help every step of the way and have prepared detailed explanations to guide you through the process and assist you with finding the information and filling in the form. You can access the guide here [insert link].
+We’re here to help every step of the way and have prepared detailed explanations to guide you through the process and assist you with finding the information and filling in the form. You can access the guide [here](https://drive.google.com/file/d/1dD6NB0QKUxV41ZdrcXzhqs2vpHYbb_Pb/view?usp=sharing).
 
 ## What is this?
 If you are new to this project or just happened to stumble upon it, we're happy your here! You can find out more information abotu this project on the Breaking Good website [insert link] or on this repository's [wiki](https://github.com/TheBreakingGoodProject/Essential-Medicines/wiki).
