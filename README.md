@@ -8,9 +8,9 @@ Here on GitHub, you can talk to other contributors and ask us any questions that
 
 Thanks to your commitment and hard work, we have now finalised the first stage of data collection on the anti-infection essential medicines! :tada::confetti_ball:
 
-We are now working on the development of database where we will store all this information. If you would like to contribute you can join [here](https://github.com/TheBreakingGoodProject/Essential-Medicines/issues/4) 
+We are now working on the development of database where we will store all this information. If you would like to contribute you can join [here](https://github.com/TheBreakingGoodProject/Essential-Medicines/issues/4).
 
-In thee interim, we have published all the data we collected in Stage I openly as an excel file on figshare. You can access it [here](https://figshare.com/s/4730b089228a2a21e4ae)
+In the interim, we have published all the data we collected in Stage I openly as an excel file on figshare. You can access it [here](https://figshare.com/s/4730b089228a2a21e4ae).
 
 
 ## Good news :) Stage II of E$$ENTIAL MEDICINE$ is now open for contributions! (updated 26 June 2020)
