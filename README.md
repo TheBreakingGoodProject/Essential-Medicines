@@ -8,7 +8,7 @@ Here on GitHub, you can talk to other contributors and ask us any questions that
 
 During National Science Week here in Australia the E$$ENTIAL MEDICINE$ team and The Breaking Good Project hosted an expert panel discussion on the world's most important medicines - the essential medicines. The panel discussed some of the barriers to accessing the essential medicines and how we might be able to break down these barrier. The event was recorded and is now up on our YouTube channel. [Check it out here](https://www.youtube.com/watch?v=dPKQyR5xYT0&t=11s&ab_channel=BreakingGood).
 
-##E$$ENTIAL MEDICINE$ in Schools
+## E$$ENTIAL MEDICINE$ in Schools
 
 The Breaking Good team has been working with secondary schools through workshops and in-curriculum units of work. [Read more about what we're doing here](https://github.com/alintheopen/SCOPE/issues/13)
 
