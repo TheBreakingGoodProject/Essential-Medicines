@@ -6,7 +6,7 @@ Here on GitHub, you can talk to other contributors and ask us any questions that
 
 ## Ready to Contribute?
 
-You can help us find out more about the accessibility of the world's most important medicines by contributing to our News Flash, Price Hikes or Circle of Life Challenges.
+You can help us find out more about the accessibility of the world's most important medicines by contributing to our News Flash, Price Hikes or Circle of Life Challenges on our dedicated [E$$ENTIAL MEDICINE$ Challenges page](https://www.breakinggoodproject.com/the-challenges).
 
 You can help us communicate our findings through our Meet the Medicines Initiative. Head over to our [wiki](https://github.com/TheBreakingGoodProject/Essential-Medicines/wiki) to get started!
 
